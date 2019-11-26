@@ -24,7 +24,7 @@ Careful layout considerations were taken to lead to an optimal design. The `0Ω`
 
 <br/>
 
-<img src="documentation/pictures/PCB-front.png" height="400" alt="PCB front"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="documentation/pictures/PCB-back.png" height="400" alt="PCB back">
+<img src="documentation/pictures/PCB-front.png" height="400" alt="PCB front"> &nbsp; &nbsp; <img src="documentation/pictures/PCB-back.png" height="400" alt="PCB back">
 
 <br/>
 
