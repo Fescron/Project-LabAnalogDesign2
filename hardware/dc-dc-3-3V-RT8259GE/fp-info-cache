@@ -1,4 +1,4 @@
-16316910315190145
+16315335785203330
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -22427,13 +22427,6 @@ phoenix_contact connector MSTB_01x16_GF_5.00mm_MH
 0
 16
 16
-Connector_Phoenix_PTSA_extra
-PhoenixContact_PTSA_1,5_2-G-3,5_1x02_P3.50mm_Angled
-Generic Phoenix Contact connector footprint for: PTSA_1,5/_2-3,5; number of pins: 02; pin pitch: 3.50mm; Angled || order number: PTSA15235ZBK (2A 250V Black)
-phoenix_contact connector PTSA_01x02_G_3.50mm
-0
-2
-2
 Connector_Pin
 Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
 solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm
