@@ -21,10 +21,13 @@ Careful layout considerations were taken to lead to an optimal design. The `0Ω`
 - VOUT: 3,3 V @ 1,2 A max
 <!-- fix vertical spacing -->
 - Click [here](hardware/dc-dc-3-3V-RT8259GE/dc-dc-3-3V-RT8259GE.pdf) to go to the **schematic**.
+- Click [here](documentation/report/AnaloogOntwerp2-Labo-BuckConverter-Brecht-Arno.pdf) to go to the **report** (Dutch).
 
 <br/>
 
 <img src="documentation/pictures/PCB-front.png" height="400" alt="PCB front"> &nbsp; &nbsp; <img src="documentation/pictures/PCB-back.png" height="400" alt="PCB back">
+
+<img src="documentation/pictures/PCB-populated.png" height="400" alt="PCB populated">
 
 <br/>
 
